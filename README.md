@@ -1,4 +1,5 @@
 # Living Off The Land Binaries and Scripts (and now also Libraries)
+# THIS IS NOT MY PROJECT!
 
 <img src="https://github.com/api0cradle/LOLBAS/raw/master/Logo/LOLBAS.png" height="250">
 
